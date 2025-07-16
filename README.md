@@ -1,5 +1,7 @@
 # React Weather App
 
+[Live Demo](https://react-weather-pi-lovat.vercel.app)
+
 ## Project Description
 A simple and responsive weather application built with React. Users can search for any city to get real-time weather information, including temperature, weather description, and an icon, all powered by the OpenWeatherMap API. The app features error handling for invalid input and API issues, and is designed for educational purposes.
 
